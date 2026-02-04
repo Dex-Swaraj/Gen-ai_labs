@@ -1,4 +1,4 @@
-# ML & NLP Assignment - Enhanced Implementation
+# GENAI Assignment - Implementation
 
 ## Overview
 
